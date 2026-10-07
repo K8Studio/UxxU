@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://app.uxxu.io/signup">
-    <img src="website/public/features/product-model.webp" alt="UXXU connected C4 model editor showing software systems, people, containers, technologies, and relationships" width="1200" />
+    <img src="https://raw.githubusercontent.com/K8Studio/UxxU/main/product-model.webp" alt="UXXU connected C4 model editor showing software systems, people, containers, technologies, and relationships" width="1200" />
   </a>
 </p>
 
@@ -50,6 +50,53 @@ With UXXU you can:
 - Analyze technologies, dependencies, lifecycle status, exposure, and model coverage.
 - Publish live, embeddable diagrams instead of static screenshots.
 - Give MCP-compatible AI coding agents structured access to the architecture.
+
+## See UXXU in action
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/K8Studio/UxxU/main/product-model.webp" alt="UXXU C4 architecture model editor" width="100%" />
+      <br />
+      <strong>Connected C4 modeling</strong><br />
+      Model systems, people, containers, components, technologies, and relationships.
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/K8Studio/UxxU/main/product-projects.webp" alt="UXXU architecture projects workspace" width="100%" />
+      <br />
+      <strong>Architecture projects</strong><br />
+      Keep diagrams organized inside their complete project context.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/K8Studio/UxxU/main/product-object-model.webp" alt="UXXU reusable architecture object model" width="100%" />
+      <br />
+      <strong>Reusable object model</strong><br />
+      Manage the architecture elements shared across every view.
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/K8Studio/UxxU/main/product-diagram-map.webp" alt="UXXU connected architecture diagram map" width="100%" />
+      <br />
+      <strong>Connected diagram map</strong><br />
+      Navigate from the system landscape to the detail that matters.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/K8Studio/UxxU/main/product-versioning.webp" alt="UXXU architecture branch and version management" width="100%" />
+      <br />
+      <strong>Architecture versioning</strong><br />
+      Branch, review, and merge architecture changes with confidence.
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/K8Studio/UxxU/main/product-analytics.webp" alt="UXXU software architecture analytics" width="100%" />
+      <br />
+      <strong>Architecture intelligence</strong><br />
+      Understand technology usage, lifecycle, exposure, and model coverage.
+    </td>
+  </tr>
+</table>
 
 ## AI agents and MCP
 
