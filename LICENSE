@@ -1,0 +1,69 @@
+UXXU PROPRIETARY SOFTWARE LICENSE
+Copyright (c) 2026 CloudOps S.L. (UXXU). All rights reserved.
+1. Ownership
+Except for Third-Party Materials identified below, all source code,
+documentation, designs, images, and other materials contained in this
+repository (collectively, the "Software") are the exclusive property of
+CloudOps S.L., the operator of UXXU, and are protected by copyright and other
+applicable intellectual property laws.
+Making the Software available in a public repository does not place it in the
+public domain, make it open source, or waive any rights held by CloudOps S.L.
+2. No Licence Granted
+You may view the Software through the repository hosting service for
+informational and evaluation purposes. Except where CloudOps S.L. has given
+you prior express written permission, no licence or other right is granted to
+you to:
+  a. use or execute the Software;
+  b. copy, reproduce, or store the Software outside the ordinary technical
+     copies created while viewing this repository;
+  c. modify, adapt, translate, or create derivative works from the Software;
+  d. publish, distribute, transmit, sublicense, lease, sell, or otherwise make
+     the Software available to any third party;
+  e. deploy, host, or offer the Software, or any derivative of it, as a
+     product or service;
+  f. reverse engineer, decompile, disassemble, or otherwise attempt to derive
+     non-public elements of the Software; or
+  g. remove or alter any copyright, trademark, attribution, or proprietary
+     notice.
+Any permission granted by CloudOps S.L. must be in writing and applies only
+to the specific use expressly described in that permission.
+3. Third-Party Materials
+The Software may include or depend upon components, libraries, reference
+materials, or other content owned by third parties ("Third-Party Materials").
+Third-Party Materials remain subject to their respective copyright notices
+and licence terms. Nothing in this licence claims ownership of, or restricts
+rights granted under, those third-party licences.
+Where a file or directory contains a separate licence or attribution notice,
+that notice governs the material to which it applies.
+4. Contributions
+CloudOps S.L. does not accept source-code contributions for incorporation
+into the proprietary Software unless the contributor has first entered into
+a written contribution or intellectual-property agreement approved by
+CloudOps S.L. Opening an issue, discussion, or pull request does not by itself
+transfer ownership or grant CloudOps S.L. permission to incorporate the
+submitted code.
+5. Trademarks
+UXXU, its logos, and related names and branding are trademarks or trade names
+of CloudOps S.L. No permission to use them is granted by this licence.
+6. Disclaimer
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+TITLE, AND NON-INFRINGEMENT.
+7. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, CLOUDOPS S.L., ITS
+DIRECTORS, EMPLOYEES, AND AFFILIATES WILL NOT BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES,
+OR FOR ANY LOSS OF DATA, PROFITS, REVENUE, GOODWILL, OR BUSINESS OPPORTUNITY,
+ARISING FROM OR RELATED TO ACCESS TO OR USE OF THE SOFTWARE.
+8. Governing Law
+This licence is governed by the laws of Spain. Any dispute arising from or
+relating to this licence is subject to the exclusive jurisdiction of the
+courts of Spain, except where applicable law requires otherwise.
+9. Contact
+Requests for commercial, evaluation, integration, or other licensing
+permission should be sent to:
+CloudOps S.L.
+CIF: B10716553
+Email: info@uxxu.io
+Website: https://uxxu.io/
