@@ -119,5 +119,3 @@ A repository-wide open-source license has not yet been selected. Individual pack
 <p align="center">
   Built by <a href="https://uxxu.io/">UXXU</a> for teams that want architecture humans and AI agents can understand.
 </p>
-# UxxU
-Connected C4 architecture modeling for engineering teams and AI agents, with reusable views, collaboration, versioning, analytics, and MCP integration.
