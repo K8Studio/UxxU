@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">UXXU</h1>
+<h1 align="center">UxxU</h1>
 
 <p align="center">
   <strong>Model your architecture once. Keep every C4 view connected.</strong>
